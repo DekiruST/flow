@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/flow/static/css/main.85bc36e1.css",
-    "main.js": "/flow/static/js/main.0aaf0f3b.js",
+    "main.css": "/flow/static/css/main.ddbf9c03.css",
+    "main.js": "/flow/static/js/main.a2c228b7.js",
     "static/js/453.20952338.chunk.js": "/flow/static/js/453.20952338.chunk.js",
     "static/media/civ7_logo.png": "/flow/static/media/civ7_logo.a1863211f065f929090b.png",
     "index.html": "/flow/index.html",
-    "main.85bc36e1.css.map": "/flow/static/css/main.85bc36e1.css.map",
-    "main.0aaf0f3b.js.map": "/flow/static/js/main.0aaf0f3b.js.map",
+    "main.ddbf9c03.css.map": "/flow/static/css/main.ddbf9c03.css.map",
+    "main.a2c228b7.js.map": "/flow/static/js/main.a2c228b7.js.map",
     "453.20952338.chunk.js.map": "/flow/static/js/453.20952338.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85bc36e1.css",
-    "static/js/main.0aaf0f3b.js"
+    "static/css/main.ddbf9c03.css",
+    "static/js/main.a2c228b7.js"
   ]
 }
