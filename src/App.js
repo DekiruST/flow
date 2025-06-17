@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import civLogo from './civ7-logo.png'; 
+import civLogo from './civ7_logo.png'; 
 
 function App() {
   return (
